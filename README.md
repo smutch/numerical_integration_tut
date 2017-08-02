@@ -1,2 +1,3 @@
-# numerical_integration_tut
-A very quick numerical integration tutorial.
+# Numerical integration
+
+A **very** brief numerical integration tutorial with Python.
